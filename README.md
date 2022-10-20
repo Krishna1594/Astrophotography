@@ -1,1 +1,2 @@
 # Astrophotography
+This data is being recorded in a spreadsheet, updated each time I picture a celestial object with my gear. The data contains how, when and at what time the celestial objects were photographed along with what equipment I used and what equipment I bought to improve my skills. The data also contains what type of celestial objects being photographed and what hurdles I faced over the years during my astrophotography. Data is not well arranged. However, this encourages me to improve my data cleaning skills!
