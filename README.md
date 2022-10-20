@@ -13,6 +13,15 @@ This data is being recorded in a spreadsheet and continuously updated every time
 ### The Data
 The Data is not well arranged. However, this encourages me to improve my data cleaning skills and validate the data as per the idea behind each column.
 
+> **Note:**
+> The following acronyms are being used in the data:-
+> 1) Ref :- Refractor
+> 2) DoubRef :- Double Refractor
+> 3) DSLR :- Digital Single Lens Reflex Camera
+> 3) Num :- Number
+> 4) ly :- Light Year
+> 5) ISO :- Image Sensitivity to light 
+
 ### Example Plots
 ![Duration_vs_Distance_Plot](https://user-images.githubusercontent.com/64607588/196864964-0e432809-0a4e-43a0-94e2-c6072b326088.jpeg)
 ![Duration_vs_Observation-expenditure](https://user-images.githubusercontent.com/64607588/196865004-08eb9c44-30b6-4e05-a6b8-6877a6dd5406.jpeg)
