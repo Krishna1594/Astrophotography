@@ -8,11 +8,11 @@ This data is being recorded in a spreadsheet and continuously updated every time
 
 [Example Plots](#Example-Plots)
 
-[Analysis:The Code](#Analysis:-The-Code)
+[Analysis-The Code](#Analysis-The-Code)
 
 ### The Data
 The Data is not well arranged. However, this encourages me to improve my data cleaning skills and validate the data as per the idea behind each column.
 
 ### Example Plots
 
-### Analysis: The Code
+### Analysis-The Code
