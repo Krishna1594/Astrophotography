@@ -33,5 +33,11 @@ These packages are being used for my project which will help me make right decis
 
 https://github.com/Krishna1594/Astrophotography/blob/de860eb51ffbd70c6fe7b95ea8c32db0d45fa337/AstrophotoTime.R#L1-L22
 
+For every plot I created, I have used specific theme for simple yet clean data representation. For example,
 
+https://github.com/Krishna1594/Astrophotography/blob/de860eb51ffbd70c6fe7b95ea8c32db0d45fa337/AstrophotoTime.R#L47-L68
+
+Or, I can even use the following code to have customized fonts. However, I have disabled them using '#' in fron of lines as I dont require at the moment.
+
+https://github.com/Krishna1594/Astrophotography/blob/de860eb51ffbd70c6fe7b95ea8c32db0d45fa337/AstrophotoTime.R#L42-L45
 
