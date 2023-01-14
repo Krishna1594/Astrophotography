@@ -37,6 +37,10 @@ For every plot I created, I have used specific theme for simple yet clean data r
 
 https://github.com/Krishna1594/Astrophotography/blob/de860eb51ffbd70c6fe7b95ea8c32db0d45fa337/AstrophotoTime.R#L47-L68
 
+Also, a little trademark item that I added below the chart can be done as follows:
+
+https://github.com/Krishna1594/Astrophotography/blob/de860eb51ffbd70c6fe7b95ea8c32db0d45fa337/AstrophotoTime.R#L74-L80
+
 Or, I can even use the following code to have customized fonts. However, I have disabled them using '#' in fron of lines as I dont require at the moment.
 
 https://github.com/Krishna1594/Astrophotography/blob/de860eb51ffbd70c6fe7b95ea8c32db0d45fa337/AstrophotoTime.R#L42-L45
