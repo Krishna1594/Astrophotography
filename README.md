@@ -31,24 +31,5 @@ The Data is not well arranged. However, this encourages me to improve my data cl
 ### Analysis-The Code
 These packages are being used for my project which will help me make right decisions on how to improve my quality of my pictures considering my city's light pollution:
 
-library(readxl) 
-library(crayon) 
-library(stringr) 
-library(stringi) 
-library(openxlsx) 
-library(janitor) 
-library(tidyverse)
-library(ggrepel)
-library(tidyr)
-library(lubridate) 
-library(dplyr) 
-library(ggplot2) 
-library(plotly) 
-library(plotrix) 
-library(viridisLite, lib.loc="~/R/win-library/3.5") 
-library(viridis, lib.loc="~/R/win-library/3.5")
-library(hrbrthemes)
-library(scales)
-library(formattable)
 
 
